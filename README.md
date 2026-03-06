@@ -1,5 +1,25 @@
-🔭 I’m currently working on deep learning models in cybersecurity use.
+# Hi there, I'm Fatma Nur Aktaş 👋 🛡️
 
+### 🚀 Currently Working On
+- **Adversarial Machine Learning:** I am actively developing and researching in my **Adversarial Project**, focusing on the robustness of neural networks against intentional attacks. 🧪🤖
+
+---
+
+### 🛡️ Security Philosophy & Expertise
+- **Holistic Security Approach:** I believe security is not a layer, but a foundation. I approach systems with a **360-degree holistic perspective**, ensuring every entry point is considered.
+- **AI Security Specialist:** My core focus lies at the intersection of Artificial Intelligence and Cybersecurity. I work on securing AI models, protecting data integrity, and preventing model inversion or poisoning attacks. 🧠🔐
+
+
+---
+
+### 🌟 About Me & Personal Interests
+- 📍 Based in: [Your City/Location]
+- 🎓 Studying/Graduated from: [Your University]
+- 💬 Ask me about: **AI Safety, Cyber Resilience, and Secure Coding**
+- ⚡ Fun Fact: [Insert a fun fact about yourself here! e.g., I drink more coffee than my code has lines.]
+
+
+---
 
 
 ## 🌐 Socials:
