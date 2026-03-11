@@ -1,7 +1,7 @@
 # Hi there, I'm Fatma Nur Aktaş 👋 🛡️
 
 ### 🚀 Currently Working On
-- **Adversarial Machine Learning:** I am actively developing and researching in my **Adversarial Project**, focusing on the robustness of neural networks against intentional attacks. 🧪🤖
+- **Adversarial Machine Learning:** I am actively developing and researching in my **Autonomus Adversarial Self-Play Project**, focusing on the robustness of neural networks against intentional attacks. 🧪🤖
 
 ---
 
@@ -13,10 +13,10 @@
 ---
 
 ### 🌟 About Me & Personal Interests
-- 📍 Based in: [Your City/Location]
-- 🎓 Studying/Graduated from: [Your University]
-- 💬 Ask me about: **AI Safety, Cyber Resilience, and Secure Coding**
-- ⚡ Fun Fact: [Insert a fun fact about yourself here! e.g., I drink more coffee than my code has lines.]
+- 📍 Based in: Konya/Turkey
+- 🎓 Studying/Graduated from: Konya Food and Agriculture University
+- 💬 Ask me about: **AI Safety, Security Automations with ML, and Secure Coding**
+- ⚡ Fun Fact: I was born left-handed but then forced to be right-handed when I was a kid.
 
 
 ---
