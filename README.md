@@ -9,14 +9,23 @@
 - **Holistic Security Approach:** I believe security is not a layer, but a foundation. I approach systems with a **360-degree holistic perspective**, ensuring every entry point is considered.
 - **AI Security Specialist:** My core focus lies at the intersection of Artificial Intelligence and Cybersecurity. I work on securing AI models, protecting data integrity, and preventing model inversion or poisoning attacks. 🧠🔐
 
+---
+
+🛠️ Core Expertise & Interests
+
+- **AI Agents & Automation: Experienced in designing LLM-based agent frameworks that interact with complex environments and external tools.
+
+- **Network Security & Intelligence: Built an Autonomous Darknet Classifier (98% accuracy) using behavioral analysis to identify encrypted traffic (Tor/VPN) without deep packet inspection.
+
+- **Languages & Tools: Python (Expert), C# (Unity/OOP), Linux (Pop!_OS/Debian), Network Protocols (TCP/IP, Routing), and Agentic Frameworks.
 
 ---
 
 ### 🌟 About Me & Personal Interests
 - 📍 Based in: Konya/Turkey
-- 🎓 Studying/Graduated from: Konya Food and Agriculture University
+- 🎓 Studying: Konya Food and Agriculture University
 - 💬 Ask me about: **AI Safety, Security Automations with ML, and Secure Coding**
-- ⚡ Fun Fact: I was born left-handed but then forced to be right-handed when I was a kid.
+- ⚡ Fun Fact: I love Spanish music.
 
 
 ---
