@@ -1,7 +1,7 @@
 # Hi there, I'm Fatma Nur Aktaş 👋 💻
 
 ### 🚀 Currently Working On & Recent Projects
-- **Texination App:** A custom text editor application featuring file management, integrated character file systems, and local workspace capabilities. 📝✨
+- **IMGStudio App:** A custom text editor application featuring file management, integrated character file systems, and local workspace capabilities. 📝✨
 - **Software & Engineering:** Continuously expanding my engineering scope across backend architecture, automation pipelines, and software development lifecycles. 🛠️
 
 ---
